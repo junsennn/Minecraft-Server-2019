@@ -1,142 +1,127 @@
-[22:08:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:08:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:08:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:08:07] [Server thread/INFO]: Starting minecraft server version 1.14.1
-[22:08:07] [Server thread/INFO]: Loading properties
-[22:08:07] [Server thread/INFO]: Default game type: SURVIVAL
-[22:08:07] [Server thread/INFO]: Generating keypair
-[22:08:07] [Server thread/INFO]: Starting Minecraft server on 192.168.1.45:25565
-[22:08:07] [Server thread/INFO]: Using default channel type
-[22:08:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:08:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:08:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:08:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:08:08] [Server thread/INFO]: Preparing level "this is new world"
-[22:08:08] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:08:09] [Server thread/INFO]: Loaded 6 recipes
-[22:08:11] [Server thread/INFO]: Loaded 811 advancements
-[22:08:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:08:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[22:08:18] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[22:08:19] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[22:08:19] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[22:08:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[22:08:24] [Server-Worker-5/INFO]: Preparing spawn area: 34%
-[22:08:24] [Server-Worker-2/INFO]: Preparing spawn area: 78%
-[22:08:25] [Server-Worker-2/INFO]: Preparing spawn area: 86%
-[22:08:25] [Server thread/INFO]: Time elapsed: 13784 ms
-[22:08:25] [Server thread/INFO]: Done (17.346s)! For help, type "help"
-[22:09:02] [Server thread/INFO]: Junsennn[/192.168.1.45:63551] logged in with entity id 252 at (-94.49769044344366, 64.0, -265.0028986124982)
-[22:09:02] [Server thread/INFO]: Junsennn joined the game
-[22:09:38] [Server thread/INFO]: joodieee[/119.74.230.10:58686] logged in with entity id 646 at (55.165699569141495, 72.0, -352.7276642688054)
-[22:09:38] [Server thread/INFO]: joodieee joined the game
-[22:10:05] [Server thread/INFO]: Made joodieee a server operator
-[22:10:11] [Server thread/INFO]: [joodieee: Teleported joodieee to Junsennn]
-[22:10:11] [Server thread/WARN]: joodieee moved too quickly! -156.65762003218924,-8.0,74.55211041210566
-[22:11:36] [Server thread/INFO]: Junsennn lost connection: Disconnected
-[22:11:36] [Server thread/INFO]: Junsennn left the game
-[22:11:38] [Server thread/INFO]: Junsennn[/192.168.1.45:63555] logged in with entity id 3040 at (-100.46304977199368, 64.0, -274.4589942342099)
-[22:11:38] [Server thread/INFO]: Junsennn joined the game
-[22:13:29] [Server thread/WARN]: Junsennn moved too quickly! -8.530370501587598,0.0,-5.474798722525634
-[22:13:29] [Server thread/WARN]: joodieee moved too quickly! -4.918118958350107,-0.16610926093821377,8.860402097662302
-[22:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[22:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
-[22:22:00] [Server thread/INFO]: joodieee has made the advancement [Isn't It Iron Pick]
-[22:23:29] [Server thread/INFO]: Junsennn was shot by Skeleton
-[22:23:39] [Server thread/INFO]: joodieee was shot by Skeleton
-[22:24:36] [Server thread/INFO]: Junsennn was slain by Zombie
-[22:27:11] [Server thread/INFO]: Shonggggg[/42.60.209.197:49956] logged in with entity id 13314 at (-92.12315680070628, 57.0, -266.0435829111995)
-[22:27:11] [Server thread/INFO]: Shonggggg joined the game
-[22:27:20] [Server thread/INFO]: <Shonggggg> haiz nibbas
-[22:27:31] [Server thread/INFO]: <Shonggggg> can believe ma just show me the googol meme
-[22:27:34] [Server thread/INFO]: <joodieee> y so sed
-[22:28:11] [Server thread/INFO]: Shonggggg has made the advancement [The Parrots and the Bats]
-[22:28:45] [Server thread/INFO]: Shonggggg has made the advancement [A Seedy Place]
-[22:29:57] [Server thread/INFO]: <Shonggggg> why got llama
-[22:32:31] [Server thread/INFO]: [joodieee: Teleported joodieee to Junsennn]
-[22:32:43] [Server thread/WARN]: Shonggggg moved too quickly! 4.7588718755008586,0.0,8.981766981943053
-[22:34:23] [Server thread/INFO]: joodieee has made the advancement [Take Aim]
-[22:36:41] [Server thread/INFO]: joodieee was shot by Skeleton
-[22:36:55] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:36:55] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:36:55] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:36:58] [Server thread/INFO]: Junsennn was shot by Skeleton
-[22:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[22:38:41] [Server thread/INFO]: <Shonggggg> why give me
-[22:38:43] [Server thread/INFO]: Shonggggg has made the advancement [Isn't It Iron Pick]
-[22:39:01] [Server thread/INFO]: <joodieee> er those stuff are mine hue
-[22:39:29] [Server thread/INFO]: <joodieee> just bcos we look the same
-[22:39:38] [Server thread/INFO]: <Shonggggg> twins
-[22:40:16] [Server thread/INFO]: [joodieee: Teleported joodieee to Junsennn]
-[22:41:44] [Server thread/INFO]: Shonggggg was slain by Zombie
-[22:43:06] [Server thread/INFO]: Shonggggg was slain by Zombie
-[22:43:32] [Server thread/INFO]: Shonggggg was slain by Zombie
-[22:45:26] [Server thread/INFO]: Shonggggg was shot by Skeleton
-[22:45:37] [Server thread/INFO]: Junsennn hit the ground too hard
-[22:45:46] [Server thread/INFO]: [joodieee: Teleported joodieee to Junsennn]
-[22:46:00] [Server thread/INFO]: Shonggggg was shot by Skeleton
-[22:46:56] [Server thread/INFO]: Shonggggg was shot by Skeleton
-[22:47:38] [Server thread/INFO]: Shonggggg was slain by Zombie
-[22:47:48] [Server thread/INFO]: The difficulty is Easy
-[22:54:47] [Server thread/INFO]: Shonggggg has made the advancement [Acquire Hardware]
-[22:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
-[23:02:39] [Server thread/INFO]: Junsennn has made the advancement [Sweet Dreams]
-[23:02:49] [Server thread/INFO]: joodieee has made the advancement [Sweet Dreams]
-[23:02:57] [Server thread/INFO]: Shonggggg has made the advancement [Sweet Dreams]
-[23:03:10] [Server thread/INFO]: Shonggggg lost connection: Disconnected
-[23:03:10] [Server thread/INFO]: Shonggggg left the game
-[23:03:12] [Server thread/INFO]: Junsennn lost connection: Disconnected
-[23:03:12] [Server thread/INFO]: Junsennn left the game
-[23:03:23] [Server thread/INFO]: Junsennn[/192.168.1.45:63684] logged in with entity id 47273 at (-96.95754647909871, 57.0, -263.3025569219885)
-[23:03:23] [Server thread/INFO]: Junsennn joined the game
-[23:03:40] [Server thread/WARN]: Junsennn moved too quickly! -1.0094894623528177,2.252203340253729,9.733120798827144
-[23:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[23:04:02] [Server thread/INFO]: Shonggggg[/42.60.209.197:49990] logged in with entity id 48030 at (-97.71263279324542, 57.0, -264.45559753574474)
-[23:04:02] [Server thread/INFO]: Shonggggg joined the game
-[23:08:43] [Server thread/WARN]: joodieee moved too quickly! 5.524600393471644,-1.0,8.29721835153839
-[23:08:43] [Server thread/WARN]: Junsennn moved too quickly! 2.1927848906178156,-1.0,9.878265543174436
-[23:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
-[23:13:47] [Server thread/WARN]: Shonggggg moved too quickly! -1.380289748498143,-0.2522033402537289,-10.007809189316276
-[23:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
-[23:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
-[23:19:26] [Server thread/INFO]: Shonggggg lost connection: Disconnected
-[23:19:26] [Server thread/INFO]: Shonggggg left the game
-[23:26:53] [Server thread/INFO]: joodieee lost connection: Disconnected
-[23:26:53] [Server thread/INFO]: joodieee left the game
-[23:26:55] [Server thread/INFO]: Junsennn lost connection: Disconnected
-[23:26:55] [Server thread/INFO]: Junsennn left the game
-[23:27:02] [Server thread/INFO]: Stopping the server
-[23:27:02] [Server thread/INFO]: Stopping server
-[23:27:02] [Server thread/INFO]: Saving players
-[23:27:02] [Server thread/INFO]: Saving worlds
-[23:27:02] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:overworld
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (this is new world): All chunks are saved
-[23:27:04] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:the_nether
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:27:04] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:the_end
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (this is new world): All chunks are saved
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:14:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:14:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:14:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:14:20] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[21:14:20] [Server thread/INFO]: Loading properties
+[21:14:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:14:20] [Server thread/INFO]: Generating keypair
+[21:14:20] [Server thread/INFO]: Starting Minecraft server on 192.168.1.45:25565
+[21:14:20] [Server thread/INFO]: Using default channel type
+[21:14:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:14:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:14:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:14:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:14:21] [Server thread/INFO]: Preparing level "this is new world"
+[21:14:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:14:23] [Server thread/INFO]: Loaded 6 recipes
+[21:14:24] [Server thread/INFO]: Loaded 811 advancements
+[21:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:14:33] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:14:33] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:14:34] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:14:34] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:14:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:14:38] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-4/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-4/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-7/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-6/INFO]: Preparing spawn area: 1%
+[21:14:38] [Server-Worker-3/INFO]: Preparing spawn area: 24%
+[21:14:39] [Server-Worker-5/INFO]: Preparing spawn area: 97%
+[21:14:39] [Server thread/INFO]: Time elapsed: 14544 ms
+[21:14:39] [Server thread/INFO]: Done (17.946s)! For help, type "help"
+[21:16:00] [Server thread/INFO]: joodieee[/119.74.230.10:5227] logged in with entity id 289 at (-93.91367779588852, 57.0, -263.02113977988574)
+[21:16:00] [Server thread/INFO]: joodieee joined the game
+[21:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[21:17:08] [Server thread/INFO]: Junsennn[/192.168.1.45:52769] logged in with entity id 1595 at (-94.77351404327734, 57.0, -263.46952330188907)
+[21:17:08] [Server thread/INFO]: Junsennn joined the game
+[21:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[21:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[21:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[21:32:45] [Server thread/INFO]: Junsennn has made the advancement [Hot Stuff]
+[21:38:33] [Server thread/WARN]: Junsennn was kicked for floating too long!
+[21:38:33] [Server thread/INFO]: Junsennn lost connection: Flying is not enabled on this server
+[21:38:33] [Server thread/INFO]: Junsennn left the game
+[21:38:33] [Server thread/WARN]: handleDisconnection() called twice
+[21:38:37] [Server thread/INFO]: Junsennn[/192.168.1.45:52801] logged in with entity id 20690 at (-92.70000002533197, 57.0000002, -263.700000025332)
+[21:38:37] [Server thread/INFO]: Junsennn joined the game
+[21:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[21:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[21:51:15] [Server thread/INFO]: Junsennn was slain by Enderman
+[21:51:29] [Server thread/INFO]: Teleported Junsennn to joodieee
+[21:51:29] [Server thread/WARN]: Junsennn moved too quickly! -129.25396426816258,-5.0,49.35468491789402
+[22:02:19] [Server thread/INFO]: Made Junsennn a server operator
+[22:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[22:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[22:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[22:45:07] [Server thread/WARN]: joodieee moved too quickly! -2.4469613483897774,-4.0,9.002914770858808
+[22:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[22:46:08] [Server thread/INFO]: Shonggggg[/42.60.209.197:52123] logged in with entity id 74932 at (-97.95864347330111, 68.0, -239.4750143156894)
+[22:46:08] [Server thread/INFO]: Shonggggg joined the game
+[22:46:20] [Server thread/INFO]: <joodieee> hi subrashihui
+[22:46:31] [Server thread/INFO]: <Shonggggg> hiii zhuli
+[22:46:38] [Server thread/INFO]: <Shonggggg> kor later want cook indomie ?
+[22:46:42] [Server thread/INFO]: <Junsennn> SURE
+[22:50:11] [Server thread/WARN]: Junsennn moved too quickly! 6.068747979707936,1.3116870787446828,8.021131439773626
+[22:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
+[22:53:34] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:53:34] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:53:34] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:54:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:54:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:54:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:58:54] [Server thread/INFO]: <Shonggggg> how come only the horses allowed to live on land
+[23:00:53] [Server thread/INFO]: <joodieee> snow mountain
+[23:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[23:07:11] [Server thread/INFO]: <joodieee> bois we leavin in a minute
+[23:09:19] [Server thread/INFO]: [Junsennn: Teleported Junsennn to joodieee]
+[23:09:19] [Server thread/WARN]: Junsennn moved too quickly! -5.406093777585003,19.92159999847412,18.22022989012453
+[23:09:33] [Server thread/INFO]: [Junsennn: Teleported Shonggggg to Junsennn]
+[23:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[23:10:46] [Server thread/INFO]: <joodieee> FUCK
+[23:10:52] [Server thread/INFO]: <joodieee> HIDE
+[23:14:09] [Server thread/INFO]: Shonggggg was shot by Skeleton
+[23:15:00] [Server thread/INFO]: [Junsennn: Teleported Shonggggg to joodieee]
+[23:15:00] [Server thread/WARN]: Shonggggg moved too quickly! 4.5452168997729245,1.0,24.804903366916903
+[23:15:19] [Server thread/WARN]: Junsennn moved too quickly! 9.761151962153036,-2.231523797587016,0.6938357932470183
+[23:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[23:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[23:23:07] [Server thread/INFO]: joodieee lost connection: Disconnected
+[23:23:07] [Server thread/INFO]: joodieee left the game
+[23:23:44] [Server thread/INFO]: Junsennn lost connection: Disconnected
+[23:23:44] [Server thread/INFO]: Junsennn left the game
+[23:23:52] [Server thread/INFO]: Shonggggg lost connection: Disconnected
+[23:23:54] [Server thread/INFO]: Shonggggg left the game
+[23:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[23:23:59] [Server thread/INFO]: Stopping the server
+[23:23:59] [Server thread/INFO]: Stopping server
+[23:23:59] [Server thread/INFO]: Saving players
+[23:23:59] [Server thread/INFO]: Saving worlds
+[23:23:59] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:the_end
+[23:23:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:23:59] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:overworld
+[23:24:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (this is new world): All chunks are saved
+[23:24:01] [Server thread/INFO]: Saving chunks for level 'this is new world'/minecraft:the_nether
+[23:24:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:24:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:24:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (this is new world): All chunks are saved
+[23:24:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

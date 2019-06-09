@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-06-09 23:09:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-06-06 21:27:29 +0800"
@@ -206,7 +212,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-06-06 21:47:57 +0800",
-      "bread": "2019-06-06 23:13:37 +0800"
+      "bread": "2019-06-06 23:13:37 +0800",
+      "rotten_flesh": "2019-06-09 22:56:49 +0800"
     },
     "done": false
   },
@@ -476,8 +483,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2019-06-09 23:17:05 +0800",
+      "minecraft:mountains": "2019-06-09 22:50:30 +0800",
       "minecraft:birch_forest": "2019-06-06 22:31:15 +0800",
       "minecraft:river": "2019-06-06 22:28:22 +0800",
+      "minecraft:swamp": "2019-06-09 23:07:48 +0800",
       "minecraft:plains": "2019-06-06 21:25:25 +0800"
     },
     "done": false
@@ -644,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-06-09 23:09:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-06-06 21:27:29 +0800"
@@ -706,7 +722,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-06-09 22:56:07 +0800",
       "minecraft:spider": "2019-06-06 22:30:44 +0800",
+      "minecraft:phantom": "2019-06-09 23:11:17 +0800",
       "minecraft:zombie": "2019-06-06 21:27:34 +0800"
     },
     "done": false
